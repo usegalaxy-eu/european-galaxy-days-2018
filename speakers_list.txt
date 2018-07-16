@@ -1,9 +1,15 @@
 
-Sugestion                       contacted                         confirmed                    comments
+Sugestion                            contacted/confirmed                    comments
+
+Dannon Baker
+John Chilton
 
 Matthias Bernt
 Pablo Moreno
 Saskia Hilteman
 Ruben Vorderman
 Luca Pireddu
-Some rockstars from France
+some rockstars from France
+some EBI folks                                                               Ensembl to talk about proper Galaxy integration
+Yasset
+Nicola Soranzo
