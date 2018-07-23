@@ -2,7 +2,6 @@
 Sugestion                            contacted/confirmed                    comments
 
 Dannon Baker
-John Chilton
 
 Matthias Bernt                                                              proteomics
 Pablo Moreno                                                                metabolomics, clouds
@@ -15,3 +14,4 @@ some rockstars from France
 some EBI folks                                                               Ensembl to talk about proper Galaxy integration
 Yasset
 Nicola Soranzo
+Marius van den Beek
