@@ -1,7 +1,7 @@
 
 Sugestion                            contacted/confirmed                    comments
 
-Dannon Baker
+John Chilton
 
 Matthias Bernt                                                              proteomics
 Pablo Moreno                                                                metabolomics, clouds
@@ -10,7 +10,7 @@ Ruben Vorderman                                                             dock
 Luca Pireddu                                                                
 some rockstars from France
     Gildas
-    Ywan
+    Yvan
 some EBI folks                                                               Ensembl to talk about proper Galaxy integration
 Yasset
 Nicola Soranzo
