@@ -4,12 +4,14 @@ Sugestion                            contacted/confirmed                    comm
 Dannon Baker
 John Chilton
 
-Matthias Bernt
-Pablo Moreno
-Saskia Hilteman
-Ruben Vorderman
-Luca Pireddu
+Matthias Bernt                                                              proteomics
+Pablo Moreno                                                                metabolomics, clouds
+Saskia Hilteman                                                             Galaxy in a Hospital environment
+Ruben Vorderman                                                             docker
+Luca Pireddu                                                                
 some rockstars from France
+    Gildas
+    Ywan
 some EBI folks                                                               Ensembl to talk about proper Galaxy integration
 Yasset
 Nicola Soranzo
