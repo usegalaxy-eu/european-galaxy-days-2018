@@ -1,7 +1,8 @@
 
 Sugestion                            contacted/confirmed                    comments
 
-John Chilton
+Jean-Francois/Bjoern/Hans-Rudolf                                            Intro/State of the Art/etc
+(John Chilton)
 
 Matthias Bernt                                                              proteomics
 Pablo Moreno                                                                metabolomics, clouds
@@ -12,6 +13,6 @@ some rockstars from France
     Gildas
     Yvan
 some EBI folks                                                               Ensembl to talk about proper Galaxy integration
-Yasset
-Nicola Soranzo
+    Yasset
+Nicola Soranzo                                                               Python 3
 Marius van den Beek
