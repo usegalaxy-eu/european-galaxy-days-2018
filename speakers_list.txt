@@ -4,6 +4,10 @@ Sugestion                            contacted/confirmed                    comm
 Jean-Francois/Bjoern/Hans-Rudolf                                            Intro/State of the Art/etc
 (John Chilton)
 
+Nikolay A. Vazov                     contacted                              is intersted in presenting something 
+                                                                            (will confirme in the coming weeks)
+                                                                            
+
 Matthias Bernt                                                              proteomics
 Pablo Moreno                                                                metabolomics, clouds
 Saskia Hilteman                                                             Galaxy in a Hospital environment
