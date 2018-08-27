@@ -8,7 +8,7 @@ Nikolay A. Vazov                     contacted                              is i
                                                                             (will confirme in the coming weeks)
                                                                             
 
-Matthias Bernt                                                              proteomics
+Matthias Bernt                      contacted                               proteomics
 Pablo Moreno                                                                metabolomics, clouds
 Saskia Hilteman                                                             Galaxy in a Hospital environment
 Ruben Vorderman                                                             docker
@@ -18,5 +18,5 @@ some rockstars from France
     Yvan
 some EBI folks                                                               Ensembl to talk about proper Galaxy integration
     Yasset
-Nicola Soranzo                                                               Python 3
-Marius van den Beek
+Nicola Soranzo                       contacted                               Python 3
+Marius van den Beek                  contacted
